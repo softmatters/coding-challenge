@@ -11,9 +11,7 @@ namespace ConstructionLine.CodingChallenge
             _shirts = shirts;
 
             // TODO: data preparation and initialisation of additional data structures to improve performance goes here.
-
         }
-
 
         public SearchResults Search(SearchOptions options)
         {
